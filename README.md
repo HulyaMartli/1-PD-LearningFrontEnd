@@ -1,5 +1,7 @@
 # LearningFrontEnd1 - patika.dev
 
+This is a repository I created to learn the basics of HTML for the Beginner Frontend Web Development Path in [patika.dev](https://patika.dev/).
+
 ## [patika.dev - Beginner Frontend Web Development Path](https://app.patika.dev/paths/baslangic-seviye-frontend-web-development-patikasi)
 
 ### CONTENT:
