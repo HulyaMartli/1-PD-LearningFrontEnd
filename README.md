@@ -1,6 +1,6 @@
 # LearningFrontEnd1 - patika.dev
 
-## [Beginner Frontend Web Development Path](https://app.patika.dev/paths/baslangic-seviye-frontend-web-development-patikasi)
+## [patika.dev - Beginner Frontend Web Development Path](https://app.patika.dev/paths/baslangic-seviye-frontend-web-development-patikasi)
 
 ### CONTENT:
 1. Software and Coding Basics
